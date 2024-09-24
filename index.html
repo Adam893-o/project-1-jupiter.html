@@ -4,6 +4,15 @@
 	<meta charset="utf-8">
 	<title>My Websites</title>
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="https://adam893-o.github.io/project-1-jupiter.html">About Jupiter</a></li>
+        <li><a href="https://adam893-o.github.io/resume.html">Adam's Resume</a></li>
+        <li><a href="https://adam893-o.github.io/Project-1-UNO">Facts About UNO</a></li>
+      </ul>
+    </nav>
+  </header>
   <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
 	<img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter"/>
 	<h3>A Brief History Behind Planet Jupiter</h3>
