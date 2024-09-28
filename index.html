@@ -13,7 +13,7 @@
     </ul>
   </nav>
 </header>
-  <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
+  <h1>Why Jupiter Is The Most Important Planet In Our Solar System</h1>
     <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter"/>
   <h3>A Brief History Behind Planet Jupiter</h3>
     <p>Jupiter is the 5th planet in the Solar System and was discovered by astronomer Galileo Galilei in 1610. He discovered it using a small telescope that he made himself. He realized that he had discovered Jupiter when he saw that the planet had four moons orbiting it rather than stars. This was a big discovery because people in the West always thought that the Earth was the center of the universe. With Jupiter's discovery, we finally realized that there are bigger objects out there in the universe, some of which are larger than anything we'd ever imagined.</p> 
