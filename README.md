@@ -36,6 +36,6 @@
 	<iframe width="400" height="315" src="https://www.youtube.com/embed/e3fqE01YYWs?si=7IFdZLB1Tiov8kD7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <h3>Overall Conclusion</h3>
     <p>While we may never be able to see what's inside Jupiter due to the planet's immense power, we can still study and admire it for protecting us for so many years. However, not everything last forever as studies from NASA have shown that the planet is shrinking. So many mysteries are yet to be discovered about this mysterious planet, and we continue to explore what this fascinating planet has in store for us.</p>
-	  <p>Written by Adam Sharifeh</p>
+  <p>Written by Adam Sharifeh</p>
 </body>
 </html>
