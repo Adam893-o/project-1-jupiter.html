@@ -14,14 +14,14 @@
   </nav>
 </header>
   <h1>Why Jupiter Is The Most Important Planet In Our Solar System</h1>
-  <img src="media/Image1.jpg" alt="Image of Jupiter"/>
+  <img src="media/image1.jpg" alt="Image of Jupiter"/>
   <h3>A Brief History Behind Planet Jupiter</h3>
   <p>Jupiter is the 5th planet in the Solar System and was discovered by astronomer Galileo Galilei in 1610. He discovered it using a small telescope that he made himself. He realized that he had discovered Jupiter when he saw that the planet had four moons orbiting it rather than stars. This was a big discovery because people in the West always thought that the Earth was the center of the universe. With Jupiter's discovery, we finally realized that there are bigger objects out there in the universe, some of which are larger than anything we'd ever imagined.</p> 
   <p>Jupiter is the most important planet in our solar system because if it weren't for this gas giant, we would not be here. Our solar system is surrounded by an asteroid belt, and because Jupiter is located toward the center of our system, it uses its strong gravitational pull to suck in any asteroids that come toward us, <strong>destroying</strong> them with its powerful gravitational force.</p>
-  <img src="media/Image2.jpg" alt="Image of Jupiter"/>
+  <img src="media/image2.jpg" alt="Image of Jupiter"/>
   <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
   <h2>Other Facts About Planet Jupiter</h2>
-  <img src="media/Image3.jpg" alt="Image of Jupiter"/>
+  <img src="media/image3.jpg" alt="Image of Jupiter"/>
   <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
 <ul>
   <li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
